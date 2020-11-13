@@ -86,4 +86,6 @@ div.centrer {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin-right: 30px;
+    margin-left: 30px;
 }
