@@ -17,12 +17,6 @@ div.marge {
     margin-left: 8px;
 }
 
-div.margeim p,
-img {
-    margin-right: 50px;
-    margin-left: 75px;
-}
-
 nav ul {
     padding: 0px;
     margin: 0px;
@@ -86,4 +80,10 @@ div.centrer {
 
 .text {
     color: bisque
+}
+
+.flextable {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
